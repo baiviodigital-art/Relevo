@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+build/
+coverage/
+.vercel/
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+npm-debug.log*
+# Variables de entorno: nunca se suben
+.env
+.env.*
+!.env.example
